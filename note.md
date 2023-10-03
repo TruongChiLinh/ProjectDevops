@@ -2,6 +2,9 @@
 Reponsitory(repo)
 branch
 conflicts
+local
+Remote
+
 #commands
 -git init
 -git status
@@ -15,3 +18,4 @@ conflicts
 -git checkout -b {branch name}
 -git merge {branch name}
 -git branch -d {branch name}
+-git push
