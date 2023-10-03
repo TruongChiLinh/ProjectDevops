@@ -1,6 +1,7 @@
 #Terms
 Reponsitory(repo)
 branch
+conflicts
 #commands
 -git init
 -git status
